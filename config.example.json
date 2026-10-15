@@ -1,0 +1,6 @@
+{
+  "public_host": "your-device.your-tailnet.ts.net",
+  "project_root": "~/Development",
+  "port": 8766,
+  "stm32_programmer_cli": ""
+}
