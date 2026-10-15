@@ -1,0 +1,30 @@
+# Secrets / 绝不能上传
+config.json
+oauth_config.json
+.mcp_private/
+.env
+.env.*
+*.sqlite3
+*.sqlite3-*
+*.db
+*client*secret*
+*credentials*
+oauth_login.txt
+
+# Local caches and logs
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+*.log
+*.pid
+*.bak
+*.before-*
+backups/
+.DS_Store
+
+# IDE local state
+.vscode/
+.idea/
